@@ -28,7 +28,7 @@ It can:
 ## 📸 Screenshots
 
 ### WhatsApp Chat Output
-![WhatsApp Output](whatsapp_twilio.png)
+![WhatsApp Output](whatsapp_twilio.jpeg)
 
 ### Workflow
 ![Workflow](n8n-workflow.png)
